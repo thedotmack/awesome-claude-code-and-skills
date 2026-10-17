@@ -2072,6 +2072,12 @@ Tools and frameworks for creating your own Claude skills.
   - Turns approved specs into long-running autonomous implementation
   - TypeScript-driven, minimal and adaptable
 
+- [Claude-Mem/dario-paint](https://github.com/Claude-Mem/dario-paint) ![Stars](https://img.shields.io/github/stars/Claude-Mem/dario-paint?style=flat-square)
+  - Local visual editor for existing `SKILL.md` files, styled like Mario Paint
+  - Paint over a section and Claude rewrites it as a plain brief or as the principle behind it
+  - Eraser, promote and demote stamps; front matter editing with a description counter
+  - Edits copies, never the installed skill; Bun + TypeScript, MIT licensed
+
 ---
 
 ## Contributing
